@@ -32,7 +32,3 @@ The repository is created to:
 4. Compile and run the C programs to see them in action.
 
 
-
-If you want, I can also make a **slightly shorter, more casual version** that looks friendly and simple for anyone browsing GitHub.
-
-Do you want me to do that?
